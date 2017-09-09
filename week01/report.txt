@@ -1,0 +1,2 @@
+task from week 1 allow us to learn how to use github and push and pull
+

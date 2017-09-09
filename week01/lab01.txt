@@ -20,3 +20,5 @@ drwxr-xr-x  2 mega.mutiara StafCS 4096 Sep  9 13:42 week09
 drwxr-xr-x  2 mega.mutiara StafCS 4096 Sep  9 13:42 week10
 drwxr-xr-x  2 mega.mutiara StafCS 4096 Sep  9 13:42 xtra
 /home/fasilkom/mahasiswa/m/mega.mutiara/os172/week01
+Today is 09 Sep 2017 at 14:23:09
+Today is 09 Sep 2017 at 14:23:28
