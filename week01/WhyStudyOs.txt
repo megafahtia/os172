@@ -1,2 +1,3 @@
 #ostutorial
 
+we have to study OS to get information about system operation
