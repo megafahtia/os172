@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 w00-170829-16-LR-About: Introduction to Operating System, From: Lecturer
 w00-170829-16-LR-About: Introduction to Operating System, From: Lecturer
 w00-170829-16-LR-About: Introduction to Operating System, From: Lecturer
@@ -8,3 +9,14 @@ w00-170902-16-PS-About: Doing lab task
 w00-170902-16-PS-About: Doing lab task
 w00-170902-16-PS-About: Doing lab task
 
+=======
+w00-170905-16-LR-About: Introduction to Operating System, From: Lecturer
+w00-170905-16-LR-About: Introduction to Operating System, From: Lecturer
+w00-170905-16-LR-About: Introduction to Operating System, From: Lecturer
+w00-170907-16-LR-About: Introduction to Operating System, From: Lecturer
+w00-170907-16-LR-About: Introduction to Operating System, From: Lecturer
+w00-170907-16-LR-About: Introduction to Operating System, From: Lecturer
+w00-170909-16-PS-About: Doing lab task
+w00-170909-16-PS-About: Doing lab task
+w00-170909-16-PS-About: Doing lab task
+>>>>>>> 227cef70ca8ab71e8ff34d32460b05f0dfdfcb0a
