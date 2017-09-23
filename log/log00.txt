@@ -1,1 +1,9 @@
 w00-170829-16-LR-About: Introduction to Operating System, From: Lecturer
+w00-170829-16-LR-About: Introduction to Operating System, From: Lecturer
+w00-170829-16-LR-About: Introduction to Operating System, From: Lecturer
+w00-170831-16-LR-About: Introduction to Operating System, From: Lecturer
+w00-170831-16-LR-About: Introduction to Operating System, From: Lecturer
+w00-170831-16-LR-About: Introduction to Operating System, From: Lecturer
+w00-170902-16-PS-About: Doing lab task
+w00-170902-16-PS-About: Doing lab task
+w00-170902-16-PS-About: Doing lab task
